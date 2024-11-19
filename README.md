@@ -31,7 +31,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Yandex.Praktikum Data-Science Projects</td>
+      <td>Yandex.Practicum Data-Science Projects</td>
     </tr>
   </tbody>
 </table></markdown-accessiblity-table>
