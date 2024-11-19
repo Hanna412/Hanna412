@@ -31,8 +31,6 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Yandex.Praktikum Data-Science Projects</b></a></td>
-      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/stargazers"><img alt="Stars" src="https://camo.githubusercontent.com/9c92f8d7abb4ff3b36f5fa31ed877efd49b68ef862bd5497c00f4b921e3329d7/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f616b796c736f6e2f79616e6465782d7072616b74696b756d2d646174612d736369656e63652d70726f6a656374733f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/stars/akylson/yandex-praktikum-data-science-projects?style=flat-square&amp;labelColor=343b41" style="max-width: 100%;"></a></td>
-      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/network/members"><img alt="Forks" src="https://camo.githubusercontent.com/96b751349a78c263ff6b883a28c171df1bfb2853a026d09577b43d43c49616a8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f616b796c736f6e2f79616e6465782d7072616b74696b756d2d646174612d736369656e63652d70726f6a656374733f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/forks/akylson/yandex-praktikum-data-science-projects?style=flat-square&amp;labelColor=343b41" style="max-width: 100%;"></a></td>
     </tr>
   </tbody>
 </table></markdown-accessiblity-table>
