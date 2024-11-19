@@ -30,7 +30,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Yandex.Praktikum Data-Science Projects</b></a></td>
+      <td>Yandex.Praktikum Data-Science Projects</td>
     </tr>
   </tbody>
 </table></markdown-accessiblity-table>
